@@ -1,4 +1,4 @@
-## Avoid distractions
+# Avoid procrastination!
 
 This is a quick hack to compromise between having no access to your time-wasting sites and, well, wasting time on them. I wrote it because I was tired of using silly hacks to view the occasional HN article.
 
